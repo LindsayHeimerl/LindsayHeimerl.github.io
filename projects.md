@@ -6,7 +6,7 @@ title: Projects
 #### Chronicle Outlier Detection
 #### <small>June 2021 - September 2021</small>
 
-> Worked with Amazon Active Defence security telemetry data, collected through the internal service called Chronicle, to to detect when a host in a homogenous class of hosts is suddenly exhibiting anomolous behavior. <br>
+> Worked with Amazon Active Defense security telemetry data, collected through the internal service called Chronicle, to to detect when a host in a homogenous class of hosts is suddenly exhibiting anomalous behavior. <br>
 > Used PySpark to parse though daily AWS Chronicle data with 12-14 billion events per day, and benchmarked unsupervised machine learning algorithms to discover which worked best with the dataset's string based, command line argument features. <br>
 > Mapped out daily/weekly host execution behavior across AWS accounts. <br>
 > Discovered significant seasonality within AWS execution events and mapped out host execution behavior drift, leading to the discovery of potential malicious actors. <br>
